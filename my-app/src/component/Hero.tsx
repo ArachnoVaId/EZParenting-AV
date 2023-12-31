@@ -1,6 +1,6 @@
 export default function Hero() {
   return (
-    <section className="w-full min-h-screen relative">
+    <section className="w-full h-[90vh] relative">
       <img
         alt=""
         src="/img/Hero/HeroBg.png"
@@ -19,7 +19,7 @@ export default function Hero() {
       </div>
 
       <div className="flex justify-center items-center gap-x-[2vw]">
-        <h1 className="text-[2.4vw]/[2.5vw] font-inter text-white pr-[4vw]">
+        <h1 className="text-[2.4vw]/[2.5vw] font-inter text-white p-[4vw]">
           Lebih Mudah Jalani Peranmu sebagai <br/> Orang Tua dengan EzParenting
         </h1>
         <img
